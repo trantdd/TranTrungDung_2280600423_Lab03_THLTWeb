@@ -1,0 +1,39 @@
+﻿@model IEnumerable<TranTrungDung_2280600423_Lab03WebBanHang.Models.Product>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+
+
+
+
+
+
+<h1>Product</h1>
+
+<p>
+    <a asp-action="Add">Create New</a> 
+</p>
+<div class="row">
+@foreach (var item in Model) {
+    <div class="col-md-4">
+        <div class="card mb-4 shadow-sm">
+            <img class="card-img-top" src="@item.ImageUrl" alt="Product image" style="height: 225px; width: 100%; display: block;">
+            <div class="card-body">
+                <h5 class="card-title">@item.Name</h5>
+                <p class="card-text">@item.Description</p>
+                <div class="d-flex justify-content-between align-items-center">
+                    <div class="btn-group">
+                        <a asp-action="Update" asp-route-id="@item.Id" class="btn btn-sm btn-outline-secondary">Update</a>
+                        <a asp-action="Display" asp-route-id="@item.Id" class="btn btn-sm btn-outline-secondary">Display</a>
+                        <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-sm btn-outline-secondary">Delete</a>
+                    </div>
+                    <small class="text-muted">@item.Price</small>
+                </div>
+            </div>
+        </div>
+    </div>
+}
+</div>
+

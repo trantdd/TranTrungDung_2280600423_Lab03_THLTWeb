@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TranTrungDung_2280600423_Lab03WebBanHang.props" />
+</Project>
