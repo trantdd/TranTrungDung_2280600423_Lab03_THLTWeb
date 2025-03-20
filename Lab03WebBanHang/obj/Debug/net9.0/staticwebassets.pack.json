@@ -25,8 +25,16 @@
       "PackagePath": "staticwebassets\\images\\R.jpg"
     },
     {
+      "Id": "D:\\Lap_Trinh_Web\\Lab03WebBanHang\\Lab03WebBanHang\\wwwroot\\images\\TranTD_draw_a_banana_holding_a_sword_21537b4e-a846-43ef-b188-00b7f2392458.png",
+      "PackagePath": "staticwebassets\\images\\TranTD_draw_a_banana_holding_a_sword_21537b4e-a846-43ef-b188-00b7f2392458.png"
+    },
+    {
       "Id": "D:\\Lap_Trinh_Web\\Lab03WebBanHang\\Lab03WebBanHang\\wwwroot\\images\\cách-đuổi-muỗi-bằng-sả-ra-khỏi-nhà-vĩnh-viễn.webp",
       "PackagePath": "staticwebassets\\images\\cách-đuổi-muỗi-bằng-sả-ra-khỏi-nhà-vĩnh-viễn.webp"
+    },
+    {
+      "Id": "D:\\Lap_Trinh_Web\\Lab03WebBanHang\\Lab03WebBanHang\\wwwroot\\images\\hot-weather-1-Fullscreen-capture-592016-95709-AM-650x400.jpg",
+      "PackagePath": "staticwebassets\\images\\hot-weather-1-Fullscreen-capture-592016-95709-AM-650x400.jpg"
     },
     {
       "Id": "D:\\Lap_Trinh_Web\\Lab03WebBanHang\\Lab03WebBanHang\\wwwroot\\images\\images.png",
@@ -39,6 +47,10 @@
     {
       "Id": "D:\\Lap_Trinh_Web\\Lab03WebBanHang\\Lab03WebBanHang\\wwwroot\\images\\tải xuống (1).jpg",
       "PackagePath": "staticwebassets\\images\\tải xuống (1).jpg"
+    },
+    {
+      "Id": "D:\\Lap_Trinh_Web\\Lab03WebBanHang\\Lab03WebBanHang\\wwwroot\\images\\đau bụng.jpg",
+      "PackagePath": "staticwebassets\\images\\đau bụng.jpg"
     },
     {
       "Id": "D:\\Lap_Trinh_Web\\Lab03WebBanHang\\Lab03WebBanHang\\wwwroot\\js\\site.js",

@@ -1,11 +1,12 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Lab03WebBanHang\\wwwroot",
+    "\\Lab03WebBanHang",
+    "\\Lab03WebBanHang\\Controllers",
     "\\Lab03WebBanHang\\wwwroot\\lib",
     "\\Lab03WebBanHang\\wwwroot\\lib\\jquery",
     "\\Lab03WebBanHang\\wwwroot\\lib\\jquery\\dist"
   ],
-  "SelectedNode": "\\TranTrungDung_2280600423_Lab03WebBanHang.sln",
+  "SelectedNode": "\\Lab03WebBanHang\\Controllers\\ProductController.cs",
   "PreviewInSolutionExplorer": false
 }

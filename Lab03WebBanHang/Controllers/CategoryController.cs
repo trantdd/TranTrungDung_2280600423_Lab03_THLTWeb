@@ -2,9 +2,12 @@
 using TranTrungDung_2280600423_Lab03WebBanHang.Repositories;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Authorization;
 
 namespace TranTrungDung_2280600423_Lab03WebBanHang.Controllers
 {
+   
+    
     public class CategoryController : Controller
     {
         private readonly IProductRepository _productRepository;
@@ -15,6 +18,8 @@ namespace TranTrungDung_2280600423_Lab03WebBanHang.Controllers
             _categoryRepository = categoryRepository;
             _productRepository = productReponsitory;
         }
+        [Authorize(Roles = "Admin")]
+
         public async Task<IActionResult> Index()
         {
             var categories = await _categoryRepository.GetAllAsync();
@@ -22,6 +27,8 @@ namespace TranTrungDung_2280600423_Lab03WebBanHang.Controllers
         }
 
         //Detail
+        [Authorize(Roles = "Admin")]
+
         public async Task<IActionResult> Details(int id)
         {
             var category = await _categoryRepository.GetByIdAsync(id);
@@ -32,12 +39,14 @@ namespace TranTrungDung_2280600423_Lab03WebBanHang.Controllers
             return View(category);
         }
 
+        [Authorize(Roles = "Admin")]
         public async Task<IActionResult> Add()
         {
             return View();
         }
 
         [HttpPost]
+        [Authorize(Roles = "Admin")]
         public async Task<IActionResult> Add(Category category)
         {
             if (ModelState.IsValid)
@@ -48,6 +57,7 @@ namespace TranTrungDung_2280600423_Lab03WebBanHang.Controllers
             return View(category);
         }
 
+        [Authorize(Roles = "Admin")]
         public async Task<IActionResult> Update(int id)
         {
             var category = await _categoryRepository.GetByIdAsync(id);
@@ -57,7 +67,9 @@ namespace TranTrungDung_2280600423_Lab03WebBanHang.Controllers
             }
             return View(category);
         }
+
         [HttpPost]
+        [Authorize(Roles = "Admin")]
         public async Task<IActionResult> Update(int id, Category category)
         {
             if (id != category.Id)
@@ -66,14 +78,13 @@ namespace TranTrungDung_2280600423_Lab03WebBanHang.Controllers
             }
             if (ModelState.IsValid)
             {
-                _categoryRepository.UpdateAsync(category);
+                await _categoryRepository.UpdateAsync(category);
                 return RedirectToAction(nameof(Index));
             }
             return View(category);
         }
 
-
-        //Xóa Category nhưng không xóa Product
+        [Authorize(Roles = "Admin")]
         public async Task<IActionResult> Delete(int id)
         {
             var category = await _categoryRepository.GetByIdAsync(id);
@@ -83,8 +94,10 @@ namespace TranTrungDung_2280600423_Lab03WebBanHang.Controllers
             }
             return View(category);
         }
-        [HttpPost]
-        public async Task<IActionResult> Delete(int id, Category category)
+
+        [HttpPost, ActionName("Delete")]
+        [Authorize(Roles = "Admin")]
+        public async Task<IActionResult> DeleteConfirmed(int id)
         {
             await _categoryRepository.DeleteAsync(id);
             return RedirectToAction(nameof(Index));

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TranTrungDung_2280600423_Lab03WebBanHang")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e956436bc41bd2053f403ec810143ffbcd242ae9")]
 [assembly: System.Reflection.AssemblyProductAttribute("TranTrungDung_2280600423_Lab03WebBanHang")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TranTrungDung_2280600423_Lab03WebBanHang")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -2,9 +2,11 @@
 using TranTrungDung_2280600423_Lab03WebBanHang.Repositories;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
+using Microsoft.AspNetCore.Authorization;
 
 namespace TranTrungDung_2280600423_Lab03WebBanHang.Controllers
 {
+    
     public class ProductController : Controller
     {
         private readonly IProductRepository _productRepository;
@@ -22,6 +24,7 @@ namespace TranTrungDung_2280600423_Lab03WebBanHang.Controllers
             return View(products);
         }
         // Hiển thị form thêm sản phẩm mới
+        [Authorize(Roles = "Admin")]
         public async Task<IActionResult> Add()
         {
             var categories = await _categoryRepository.GetAllAsync();
@@ -30,6 +33,7 @@ namespace TranTrungDung_2280600423_Lab03WebBanHang.Controllers
         }
         // Xử lý thêm sản phẩm mới
         [HttpPost]
+        [Authorize(Roles = "Admin")]
         public async Task<IActionResult> Add(Product product, IFormFile
        imageUrl)
         {
@@ -70,6 +74,7 @@ namespace TranTrungDung_2280600423_Lab03WebBanHang.Controllers
             return View(product);
         }
         // Hiển thị form cập nhật sản phẩm
+        [Authorize(Roles = "Admin")]
         public async Task<IActionResult> Update(int id)
         {
             var product = await _productRepository.GetByIdAsync(id);
@@ -84,11 +89,12 @@ namespace TranTrungDung_2280600423_Lab03WebBanHang.Controllers
         }
         // Xử lý cập nhật sản phẩm
         [HttpPost]
+        [Authorize(Roles = "Admin")]
         public async Task<IActionResult> Update(int id, Product product,
        IFormFile imageUrl)
         {
             ModelState.Remove("ImageUrl"); // Loại bỏ xác thực ModelState cho ImageUrl
-        if (id != product.Id)
+            if (id != product.Id)
             {
                 return NotFound();
             }
@@ -97,7 +103,7 @@ namespace TranTrungDung_2280600423_Lab03WebBanHang.Controllers
                 var existingProduct = await
                _productRepository.GetByIdAsync(id); // Giả định có phương thức GetByIdAsync
                                                     // Giữ nguyên thông tin hình ảnh nếu không có hình mới được tải lên
-            if (imageUrl == null)
+                if (imageUrl == null)
                 {
                     product.ImageUrl = existingProduct.ImageUrl;
                 }
@@ -121,6 +127,7 @@ namespace TranTrungDung_2280600423_Lab03WebBanHang.Controllers
             return View(product);
         }
         // Hiển thị form xác nhận xóa sản phẩm
+        [Authorize(Roles = "Admin")]
         public async Task<IActionResult> Delete(int id)
         {
             var product = await _productRepository.GetByIdAsync(id);
@@ -132,6 +139,7 @@ namespace TranTrungDung_2280600423_Lab03WebBanHang.Controllers
         }
         // Xử lý xóa sản phẩm
         [HttpPost, ActionName("Delete")]
+        [Authorize(Roles = "Admin")]
         public async Task<IActionResult> DeleteConfirmed(int id)
         {
             await _productRepository.DeleteAsync(id);

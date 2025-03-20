@@ -63,12 +63,15 @@ D:\Lap_Trinh_Web\Lab03WebBanHang\Lab03WebBanHang\wwwroot\lib\bootstrap\dist\css\
 wwwroot\css\site.css
 wwwroot\favicon.ico
 wwwroot\images\cách-đuổi-muỗi-bằng-sả-ra-khỏi-nhà-vĩnh-viễn.webp
+wwwroot\images\đau bụng.jpg
 wwwroot\images\Hanoi_zing_5.jpg
+wwwroot\images\hot-weather-1-Fullscreen-capture-592016-95709-AM-650x400.jpg
 wwwroot\images\images.png
 wwwroot\images\OIP.jpg
 wwwroot\images\R.jpg
 wwwroot\images\say-nang.jpg
 wwwroot\images\tải xuống (1).jpg
+wwwroot\images\TranTD_draw_a_banana_holding_a_sword_21537b4e-a846-43ef-b188-00b7f2392458.png
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css
 wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
