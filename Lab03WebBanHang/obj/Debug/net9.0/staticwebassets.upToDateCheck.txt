@@ -65,9 +65,12 @@ wwwroot\favicon.ico
 wwwroot\images\cách-đuổi-muỗi-bằng-sả-ra-khỏi-nhà-vĩnh-viễn.webp
 wwwroot\images\đau bụng.jpg
 wwwroot\images\Hanoi_zing_5.jpg
+wwwroot\images\hinh-anh-co-the-mat-nuoc.jpg
+wwwroot\images\hoc-sinh--1.jpg
 wwwroot\images\hot-weather-1-Fullscreen-capture-592016-95709-AM-650x400.jpg
 wwwroot\images\images.png
 wwwroot\images\OIP.jpg
+wwwroot\images\R (1).png
 wwwroot\images\R.jpg
 wwwroot\images\say-nang.jpg
 wwwroot\images\tải xuống (1).jpg

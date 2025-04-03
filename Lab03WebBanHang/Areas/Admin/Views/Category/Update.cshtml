@@ -1,0 +1,45 @@
+﻿@model TranTrungDung_2280600423_Lab03WebBanHang.Models.Category
+
+@{
+    ViewData["Title"] = "Update";
+}
+
+<!-- Thêm Font Awesome -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" />
+
+<!-- Vùng chứa chính căn giữa -->
+<div class="container mt-4">
+    <!-- Tiêu đề căn giữa -->
+    <h1 class="text-center mb-4">Edit Category</h1>
+
+    <hr />
+
+    <!-- Biểu mẫu căn giữa -->
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <form asp-action="Update">
+                <div asp-validation-summary="ModelOnly" class="text-danger mb-3"></div>
+                <input type="hidden" asp-for="Id" />
+                <div class="form-group mb-3">
+                    <label asp-for="Name" class="form-label">Category Name</label>
+                    <input asp-for="Name" class="form-control" placeholder="Enter category name" />
+                    <span asp-validation-for="Name" class="text-danger"></span>
+                </div>
+                <div class="form-group d-flex justify-content-between">
+                    <a asp-action="Index" class="btn btn-secondary">
+                        <i class="fas fa-arrow-left"></i> Back to List
+                    </a>
+                    <button type="submit" class="btn btn-primary">
+                        <i class="fas fa-save"></i> Save
+                    </button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

@@ -17,9 +17,6 @@ namespace TranTrungDung_2280600423_Lab03WebBanHang.Repositories
             return await _context.Categories.ToListAsync();
 
         }
-
-
-
         public async Task<Category> GetByIdAsync(int id)
         {
             return await _context.Categories.FindAsync(id);

@@ -1,0 +1,64 @@
+﻿@model TranTrungDung_2280600423_Lab03WebBanHang.Models.Product
+
+@{
+    ViewData["Title"] = "Add";
+}
+
+<!-- Thêm Font Awesome -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" />
+
+<!-- Vùng chứa chính căn giữa -->
+<div class="container mt-4">
+    <!-- Tiêu đề căn giữa -->
+    <h1 class="text-center mb-4">Add New Product</h1>
+
+    <hr />
+
+    <!-- Biểu mẫu căn giữa -->
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <form asp-action="Add" enctype="multipart/form-data">
+                <div asp-validation-summary="ModelOnly" class="text-danger mb-3"></div>
+                <div class="form-group mb-3">
+                    <label asp-for="Name" class="form-label">Product Name</label>
+                    <input asp-for="Name" class="form-control" placeholder="Enter product name" />
+                    <span asp-validation-for="Name" class="text-danger"></span>
+                </div>
+                <div class="form-group mb-3">
+                    <label asp-for="Price" class="form-label">Price</label>
+                    <input asp-for="Price" class="form-control" placeholder="Enter price" />
+                    <span asp-validation-for="Price" class="text-danger"></span>
+                </div>
+                <div class="form-group mb-3">
+                    <label asp-for="Description" class="form-label">Description</label>
+                    <input asp-for="Description" class="form-control" placeholder="Enter description" />
+                    <span asp-validation-for="Description" class="text-danger"></span>
+                </div>
+                <div class="form-group mb-3">
+                    <label asp-for="ImageUrl" class="form-label">Product Image</label>
+                    <input type="file" asp-for="ImageUrl" class="form-control" />
+                </div>
+                <div class="form-group mb-3">
+                    <label asp-for="CategoryId" class="form-label">Category</label>
+                    <select asp-for="CategoryId" asp-items="ViewBag.Categories" class="form-control">
+                        <option value="">Select a category</option>
+                    </select>
+                </div>
+                <div class="form-group d-flex justify-content-between">
+                    <a asp-action="Index" class="btn btn-secondary">
+                        <i class="fas fa-arrow-left"></i> Back to List
+                    </a>
+                    <button type="submit" class="btn btn-primary">
+                        <i class="fas fa-plus"></i> Create
+                    </button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

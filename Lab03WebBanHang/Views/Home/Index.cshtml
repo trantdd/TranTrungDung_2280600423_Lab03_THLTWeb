@@ -1,8 +1,28 @@
-﻿@{
+﻿@model IEnumerable<TranTrungDung_2280600423_Lab03WebBanHang.Models.Product>
+@{
     ViewData["Title"] = "Home Page";
+    int numOfQuantity = 1;
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
-</div>
+<h1 class="text-center text-primary my-4 fw-bold display-4">Danh sách sản phẩm</h1>
+<section class="py-2">
+    <div class="container px-4 px-lg-5 mt-5">
+        <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 row-cols-xl-4 g-4 justify-content-center">
+            @foreach (var item in Model)
+            {
+                <div class="col d-flex justify-content-center">
+                    <div class="card h-100 shadow-lg border-0 rounded-4 overflow-hidden bg-light">
+                        <img src="@item.ImageUrl" class="card-img-top img-fluid" alt="@item.Name" style="height: 250px; object-fit: cover; border-bottom: 4px solid #007bff;">
+                        <div class="card-body text-center p-4">
+                            <h5 class="card-title text-dark fw-bold fs-4 text-uppercase">@item.Name</h5>
+                            <p class="text-danger fw-semibold fs-5 mb-3">@item.Price.ToString("#,##0") Vnđ</p>
+                            <a asp-controller="ShoppingCart" asp-action="AddToCart" asp-route-productId="@item.Id" asp-route-quantity="@numOfQuantity" class="btn btn-success w-100 fw-semibold text-uppercase shadow-sm rounded-pill py-2">
+                                <i class="bi bi-cart-fill me-1"></i> Thêm vào giỏ hàng
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</section>

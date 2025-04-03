@@ -1,0 +1,43 @@
+﻿@model TranTrungDung_2280600423_Lab03WebBanHang.Models.Category
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<!-- Thêm Font Awesome -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" />
+
+<!-- Vùng chứa chính căn giữa -->
+<div class="container mt-4">
+    <!-- Tiêu đề căn giữa -->
+    <h1 class="text-center mb-4">Delete Category</h1>
+
+    <h3 class="text-center mb-3">Are you sure you want to delete this?</h3>
+
+    <hr />
+
+    <!-- Thông tin chi tiết căn giữa -->
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <dl class="row">
+                <dt class="col-sm-4 text-sm-end">
+                    @Html.DisplayNameFor(model => model.Name)
+                </dt>
+                <dd class="col-sm-8">
+                    @Html.DisplayFor(model => model.Name)
+                </dd>
+            </dl>
+            <form asp-action="Delete">
+                <input type="hidden" asp-for="Id" />
+                <div class="d-flex justify-content-between mt-3">
+                    <button type="submit" class="btn btn-danger">
+                        <i class="fas fa-trash"></i> Delete
+                    </button>
+                    <a asp-action="Index" class="btn btn-secondary">
+                        <i class="fas fa-arrow-left"></i> Back to List
+                    </a>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

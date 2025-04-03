@@ -2,7 +2,7 @@
   "Files": [
     {
       "Id": "D:\\Lap_Trinh_Web\\Lab03WebBanHang\\Lab03WebBanHang\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\TranTrungDung_2280600423_Lab03WebBanHang.bundle.scp.css",
-      "PackagePath": "staticwebassets\\TranTrungDung_2280600423_Lab03WebBanHang.2ojsffn0eb.bundle.scp.css"
+      "PackagePath": "staticwebassets\\TranTrungDung_2280600423_Lab03WebBanHang.id1skg398k.bundle.scp.css"
     },
     {
       "Id": "D:\\Lap_Trinh_Web\\Lab03WebBanHang\\Lab03WebBanHang\\wwwroot\\css\\site.css",
@@ -21,6 +21,10 @@
       "PackagePath": "staticwebassets\\images\\OIP.jpg"
     },
     {
+      "Id": "D:\\Lap_Trinh_Web\\Lab03WebBanHang\\Lab03WebBanHang\\wwwroot\\images\\R (1).png",
+      "PackagePath": "staticwebassets\\images\\R (1).png"
+    },
+    {
       "Id": "D:\\Lap_Trinh_Web\\Lab03WebBanHang\\Lab03WebBanHang\\wwwroot\\images\\R.jpg",
       "PackagePath": "staticwebassets\\images\\R.jpg"
     },
@@ -31,6 +35,14 @@
     {
       "Id": "D:\\Lap_Trinh_Web\\Lab03WebBanHang\\Lab03WebBanHang\\wwwroot\\images\\cách-đuổi-muỗi-bằng-sả-ra-khỏi-nhà-vĩnh-viễn.webp",
       "PackagePath": "staticwebassets\\images\\cách-đuổi-muỗi-bằng-sả-ra-khỏi-nhà-vĩnh-viễn.webp"
+    },
+    {
+      "Id": "D:\\Lap_Trinh_Web\\Lab03WebBanHang\\Lab03WebBanHang\\wwwroot\\images\\hinh-anh-co-the-mat-nuoc.jpg",
+      "PackagePath": "staticwebassets\\images\\hinh-anh-co-the-mat-nuoc.jpg"
+    },
+    {
+      "Id": "D:\\Lap_Trinh_Web\\Lab03WebBanHang\\Lab03WebBanHang\\wwwroot\\images\\hoc-sinh--1.jpg",
+      "PackagePath": "staticwebassets\\images\\hoc-sinh--1.jpg"
     },
     {
       "Id": "D:\\Lap_Trinh_Web\\Lab03WebBanHang\\Lab03WebBanHang\\wwwroot\\images\\hot-weather-1-Fullscreen-capture-592016-95709-AM-650x400.jpg",

@@ -1,4 +1,4 @@
-using TranTrungDung_2280600423_Lab03WebBanHang.Models;
+﻿using TranTrungDung_2280600423_Lab03WebBanHang.Models;
 using TranTrungDung_2280600423_Lab03WebBanHang.Repositories;
 using Microsoft.EntityFrameworkCore;
 using static Microsoft.EntityFrameworkCore.DbLoggerCategory.Database;
@@ -12,6 +12,15 @@ builder.Services.AddIdentity<ApplicationUser, IdentityRole>()
     .AddDefaultTokenProviders()
     .AddDefaultUI()
     .AddEntityFrameworkStores<ApplicationDbContext>();
+
+// Đặt trước AddControllersWithViews();
+builder.Services.AddDistributedMemoryCache();
+builder.Services.AddSession(options =>
+{
+    options.IdleTimeout = TimeSpan.FromMinutes(30);
+    options.Cookie.HttpOnly = true;
+    options.Cookie.IsEssential = true;
+});
 
 builder.Services.ConfigureApplicationCookie(options =>
 {
@@ -46,10 +55,15 @@ app.UseAuthorization();
 app.MapStaticAssets();
 app.MapRazorPages();
 
+app.UseSession();
+
+// Các middleware khác...
+app.UseRouting();
+
 app.UseEndpoints(endpoints =>
 {
     endpoints.MapControllerRoute(
-       name: "Admin",
+       name: "areas",
        pattern: "{area:exists}/{controller=Home}/{action=Index}/{id?}");
 
     endpoints.MapControllerRoute(

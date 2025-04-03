@@ -1,0 +1,52 @@
+﻿@model IEnumerable<TranTrungDung_2280600423_Lab03WebBanHang.Models.Category>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<!-- Thêm Font Awesome -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" />
+
+<!-- Vùng chứa chính căn giữa -->
+<div class="container mt-4">
+    <!-- Tiêu đề căn giữa -->
+    <h1 class="text-center mb-4">Category Management</h1>
+
+    <!-- Nút thêm mới căn giữa -->
+    <div class="d-flex justify-content-center mb-3">
+        <a asp-action="Add" class="btn btn-primary">
+            <i class="fas fa-plus"></i> Create New Category
+        </a>
+    </div>
+
+    <!-- Bảng căn giữa -->
+    <table class="table table-striped table-bordered table-hover mx-auto" style="max-width: 800px;">
+        <thead class="thead-dark">
+            <tr>
+                <th scope="col" class="text-center">ID</th>
+                <th scope="col" class="text-center">Name</th>
+                <th scope="col" class="text-center">Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td class="text-center">@item.Id</td>
+                    <td class="text-center">@item.Name</td>
+                    <td class="text-center">
+                        <a asp-action="Update" asp-route-id="@item.Id" class="btn btn-sm btn-warning">
+                            <i class="fas fa-edit"></i> Update
+                        </a>
+                        <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-sm btn-info">
+                            <i class="fas fa-info-circle"></i> Display
+                        </a>
+                        <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-sm btn-danger">
+                            <i class="fas fa-trash"></i> Delete
+                        </a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

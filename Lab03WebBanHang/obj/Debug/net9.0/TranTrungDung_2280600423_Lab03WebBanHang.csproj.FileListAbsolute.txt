@@ -318,8 +318,6 @@ D:\Lap_Trinh_Web\Lab03WebBanHang\Lab03WebBanHang\obj\Debug\net9.0\compressed\xrp
 D:\Lap_Trinh_Web\Lab03WebBanHang\Lab03WebBanHang\obj\Debug\net9.0\compressed\qo8mh5bn08-muycvpuwrr.gz
 D:\Lap_Trinh_Web\Lab03WebBanHang\Lab03WebBanHang\obj\Debug\net9.0\compressed\7p4brk9h8h-87fc7y1x7t.gz
 D:\Lap_Trinh_Web\Lab03WebBanHang\Lab03WebBanHang\obj\Debug\net9.0\compressed\ju7olb10t2-mlv21k5csn.gz
-D:\Lap_Trinh_Web\Lab03WebBanHang\Lab03WebBanHang\obj\Debug\net9.0\compressed\b24yn7fq9n-2ojsffn0eb.gz
-D:\Lap_Trinh_Web\Lab03WebBanHang\Lab03WebBanHang\obj\Debug\net9.0\compressed\p9n6ikug64-2ojsffn0eb.gz
 D:\Lap_Trinh_Web\Lab03WebBanHang\Lab03WebBanHang\obj\Debug\net9.0\staticwebassets.build.json
 D:\Lap_Trinh_Web\Lab03WebBanHang\Lab03WebBanHang\obj\Debug\net9.0\staticwebassets.development.json
 D:\Lap_Trinh_Web\Lab03WebBanHang\Lab03WebBanHang\obj\Debug\net9.0\staticwebassets.build.endpoints.json
@@ -434,3 +432,6 @@ D:\Lap_Trinh_Web\Lab03WebBanHang\Lab03WebBanHang\bin\Debug\net9.0\runtimes\win-a
 D:\Lap_Trinh_Web\Lab03WebBanHang\Lab03WebBanHang\bin\Debug\net9.0\runtimes\win-arm64\native\e_sqlite3.dll
 D:\Lap_Trinh_Web\Lab03WebBanHang\Lab03WebBanHang\bin\Debug\net9.0\runtimes\win-x64\native\e_sqlite3.dll
 D:\Lap_Trinh_Web\Lab03WebBanHang\Lab03WebBanHang\bin\Debug\net9.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\Lap_Trinh_Web\Lab03WebBanHang\Lab03WebBanHang\obj\Debug\net9.0\scopedcss\Areas\Admin\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Lap_Trinh_Web\Lab03WebBanHang\Lab03WebBanHang\obj\Debug\net9.0\compressed\b24yn7fq9n-id1skg398k.gz
+D:\Lap_Trinh_Web\Lab03WebBanHang\Lab03WebBanHang\obj\Debug\net9.0\compressed\p9n6ikug64-id1skg398k.gz

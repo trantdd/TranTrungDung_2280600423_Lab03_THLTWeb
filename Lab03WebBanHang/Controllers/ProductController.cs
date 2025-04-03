@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Authorization;
 
 namespace TranTrungDung_2280600423_Lab03WebBanHang.Controllers
 {
-    
+    [Authorize]
     public class ProductController : Controller
     {
         private readonly IProductRepository _productRepository;
@@ -34,8 +34,7 @@ namespace TranTrungDung_2280600423_Lab03WebBanHang.Controllers
         // Xử lý thêm sản phẩm mới
         [HttpPost]
         [Authorize(Roles = "Admin")]
-        public async Task<IActionResult> Add(Product product, IFormFile
-       imageUrl)
+        public async Task<IActionResult> Add(Product product, IFormFile imageUrl)
         {
             if (ModelState.IsValid)
             {
@@ -118,6 +117,7 @@ namespace TranTrungDung_2280600423_Lab03WebBanHang.Controllers
                 existingProduct.Description = product.Description;
                 existingProduct.CategoryId = product.CategoryId;
                 existingProduct.ImageUrl = product.ImageUrl;
+
                 await _productRepository.UpdateAsync(existingProduct);
 
                 return RedirectToAction(nameof(Index));

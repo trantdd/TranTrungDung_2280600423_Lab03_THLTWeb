@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "oKdnvXbyU8FEaifXS4MxSyi8HdrBmkabWKIDDQnmAso=",
+  "Hash": "NXASYm0keasSbc20Bu9vBUsGO6DWcjKCsnF5ZSMQWUU=",
   "Source": "TranTrungDung_2280600423_Lab03WebBanHang",
   "BasePath": "_content/TranTrungDung_2280600423_Lab03WebBanHang",
   "Mode": "Default",
@@ -1949,12 +1949,12 @@
       "OriginalItemSpec": "D:\\Lap_Trinh_Web\\Lab03WebBanHang\\Lab03WebBanHang\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "D:\\Lap_Trinh_Web\\Lab03WebBanHang\\Lab03WebBanHang\\obj\\Debug\\net9.0\\compressed\\b24yn7fq9n-2ojsffn0eb.gz",
+      "Identity": "D:\\Lap_Trinh_Web\\Lab03WebBanHang\\Lab03WebBanHang\\obj\\Debug\\net9.0\\compressed\\b24yn7fq9n-id1skg398k.gz",
       "SourceId": "TranTrungDung_2280600423_Lab03WebBanHang",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Lap_Trinh_Web\\Lab03WebBanHang\\Lab03WebBanHang\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/TranTrungDung_2280600423_Lab03WebBanHang",
-      "RelativePath": "TranTrungDung_2280600423_Lab03WebBanHang#[.{fingerprint=2ojsffn0eb}]?.styles.css.gz",
+      "RelativePath": "TranTrungDung_2280600423_Lab03WebBanHang#[.{fingerprint=id1skg398k}]?.styles.css.gz",
       "AssetKind": "All",
       "AssetMode": "CurrentProject",
       "AssetRole": "Alternative",
@@ -1963,8 +1963,8 @@
       "RelatedAsset": "D:\\Lap_Trinh_Web\\Lab03WebBanHang\\Lab03WebBanHang\\obj\\Debug\\net9.0\\scopedcss\\bundle\\TranTrungDung_2280600423_Lab03WebBanHang.styles.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "3gtdhhu64u",
-      "Integrity": "rTTImUBDlCiLM0l/RTnGqvfJw/CkcmcqGFzveb5VncI=",
+      "Fingerprint": "hu4v2aclmt",
+      "Integrity": "SdTNQDb5LdY1PYFB5yIVXvwWIATprSR+HAKXF1bN0KE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\Lap_Trinh_Web\\Lab03WebBanHang\\Lab03WebBanHang\\obj\\Debug\\net9.0\\scopedcss\\bundle\\TranTrungDung_2280600423_Lab03WebBanHang.styles.css"
@@ -2978,12 +2978,12 @@
       "OriginalItemSpec": "C:\\Users\\dungt\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\9.0.3\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "D:\\Lap_Trinh_Web\\Lab03WebBanHang\\Lab03WebBanHang\\obj\\Debug\\net9.0\\compressed\\p9n6ikug64-2ojsffn0eb.gz",
+      "Identity": "D:\\Lap_Trinh_Web\\Lab03WebBanHang\\Lab03WebBanHang\\obj\\Debug\\net9.0\\compressed\\p9n6ikug64-id1skg398k.gz",
       "SourceId": "TranTrungDung_2280600423_Lab03WebBanHang",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Lap_Trinh_Web\\Lab03WebBanHang\\Lab03WebBanHang\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/TranTrungDung_2280600423_Lab03WebBanHang",
-      "RelativePath": "TranTrungDung_2280600423_Lab03WebBanHang#[.{fingerprint=2ojsffn0eb}]!.bundle.scp.css.gz",
+      "RelativePath": "TranTrungDung_2280600423_Lab03WebBanHang#[.{fingerprint=id1skg398k}]!.bundle.scp.css.gz",
       "AssetKind": "All",
       "AssetMode": "Reference",
       "AssetRole": "Alternative",
@@ -2992,8 +2992,8 @@
       "RelatedAsset": "D:\\Lap_Trinh_Web\\Lab03WebBanHang\\Lab03WebBanHang\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\TranTrungDung_2280600423_Lab03WebBanHang.bundle.scp.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "3gtdhhu64u",
-      "Integrity": "rTTImUBDlCiLM0l/RTnGqvfJw/CkcmcqGFzveb5VncI=",
+      "Fingerprint": "hu4v2aclmt",
+      "Integrity": "SdTNQDb5LdY1PYFB5yIVXvwWIATprSR+HAKXF1bN0KE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\Lap_Trinh_Web\\Lab03WebBanHang\\Lab03WebBanHang\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\TranTrungDung_2280600423_Lab03WebBanHang.bundle.scp.css"
@@ -4000,8 +4000,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "2ojsffn0eb",
-      "Integrity": "ks0Y5DOxLG9L5pQ+a88IXappJKVwUAC6VQ+GpFzaVMI=",
+      "Fingerprint": "id1skg398k",
+      "Integrity": "CsarhQTZruTqaS+GTTUHV+sybkbpwBB76mC6dbak+Xs=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\Lap_Trinh_Web\\Lab03WebBanHang\\Lab03WebBanHang\\obj\\Debug\\net9.0\\scopedcss\\bundle\\TranTrungDung_2280600423_Lab03WebBanHang.styles.css"
@@ -4021,8 +4021,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "2ojsffn0eb",
-      "Integrity": "ks0Y5DOxLG9L5pQ+a88IXappJKVwUAC6VQ+GpFzaVMI=",
+      "Fingerprint": "id1skg398k",
+      "Integrity": "CsarhQTZruTqaS+GTTUHV+sybkbpwBB76mC6dbak+Xs=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\Lap_Trinh_Web\\Lab03WebBanHang\\Lab03WebBanHang\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\TranTrungDung_2280600423_Lab03WebBanHang.bundle.scp.css"
@@ -4133,6 +4133,48 @@
       "OriginalItemSpec": "wwwroot\\images\\Hanoi_zing_5.jpg"
     },
     {
+      "Identity": "D:\\Lap_Trinh_Web\\Lab03WebBanHang\\Lab03WebBanHang\\wwwroot\\images\\hinh-anh-co-the-mat-nuoc.jpg",
+      "SourceId": "TranTrungDung_2280600423_Lab03WebBanHang",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Lap_Trinh_Web\\Lab03WebBanHang\\Lab03WebBanHang\\wwwroot\\",
+      "BasePath": "_content/TranTrungDung_2280600423_Lab03WebBanHang",
+      "RelativePath": "images/hinh-anh-co-the-mat-nuoc#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ym9qte1e1n",
+      "Integrity": "tocNnOzfk47d7I8io5fzuRFQhOegCvYKBjnaVEyjJEM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\hinh-anh-co-the-mat-nuoc.jpg"
+    },
+    {
+      "Identity": "D:\\Lap_Trinh_Web\\Lab03WebBanHang\\Lab03WebBanHang\\wwwroot\\images\\hoc-sinh--1.jpg",
+      "SourceId": "TranTrungDung_2280600423_Lab03WebBanHang",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Lap_Trinh_Web\\Lab03WebBanHang\\Lab03WebBanHang\\wwwroot\\",
+      "BasePath": "_content/TranTrungDung_2280600423_Lab03WebBanHang",
+      "RelativePath": "images/hoc-sinh--1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mvouqc7xai",
+      "Integrity": "jmw+CAatKHbeh6un4p+FVs2ZNNf8ScLXgAGWbwMRrg0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\hoc-sinh--1.jpg"
+    },
+    {
       "Identity": "D:\\Lap_Trinh_Web\\Lab03WebBanHang\\Lab03WebBanHang\\wwwroot\\images\\hot-weather-1-Fullscreen-capture-592016-95709-AM-650x400.jpg",
       "SourceId": "TranTrungDung_2280600423_Lab03WebBanHang",
       "SourceType": "Discovered",
@@ -4194,6 +4236,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\OIP.jpg"
+    },
+    {
+      "Identity": "D:\\Lap_Trinh_Web\\Lab03WebBanHang\\Lab03WebBanHang\\wwwroot\\images\\R (1).png",
+      "SourceId": "TranTrungDung_2280600423_Lab03WebBanHang",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Lap_Trinh_Web\\Lab03WebBanHang\\Lab03WebBanHang\\wwwroot\\",
+      "BasePath": "_content/TranTrungDung_2280600423_Lab03WebBanHang",
+      "RelativePath": "images/R (1)#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "w6him6rohb",
+      "Integrity": "iIWKVG0m8A4cUaGAVk9+dhBWztEOJuVV74QcDxw1I78=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\R (1).png"
     },
     {
       "Identity": "D:\\Lap_Trinh_Web\\Lab03WebBanHang\\Lab03WebBanHang\\wwwroot\\images\\R.jpg",
@@ -15010,6 +15073,170 @@
       ]
     },
     {
+      "Route": "images/hinh-anh-co-the-mat-nuoc.jpg",
+      "AssetFile": "D:\\Lap_Trinh_Web\\Lab03WebBanHang\\Lab03WebBanHang\\wwwroot\\images\\hinh-anh-co-the-mat-nuoc.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "60523"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tocNnOzfk47d7I8io5fzuRFQhOegCvYKBjnaVEyjJEM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Mar 2025 01:52:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tocNnOzfk47d7I8io5fzuRFQhOegCvYKBjnaVEyjJEM="
+        }
+      ]
+    },
+    {
+      "Route": "images/hinh-anh-co-the-mat-nuoc.ym9qte1e1n.jpg",
+      "AssetFile": "D:\\Lap_Trinh_Web\\Lab03WebBanHang\\Lab03WebBanHang\\wwwroot\\images\\hinh-anh-co-the-mat-nuoc.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "60523"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tocNnOzfk47d7I8io5fzuRFQhOegCvYKBjnaVEyjJEM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Mar 2025 01:52:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ym9qte1e1n"
+        },
+        {
+          "Name": "label",
+          "Value": "images/hinh-anh-co-the-mat-nuoc.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tocNnOzfk47d7I8io5fzuRFQhOegCvYKBjnaVEyjJEM="
+        }
+      ]
+    },
+    {
+      "Route": "images/hoc-sinh--1.jpg",
+      "AssetFile": "D:\\Lap_Trinh_Web\\Lab03WebBanHang\\Lab03WebBanHang\\wwwroot\\images\\hoc-sinh--1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "78228"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jmw+CAatKHbeh6un4p+FVs2ZNNf8ScLXgAGWbwMRrg0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Apr 2025 05:55:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jmw+CAatKHbeh6un4p+FVs2ZNNf8ScLXgAGWbwMRrg0="
+        }
+      ]
+    },
+    {
+      "Route": "images/hoc-sinh--1.mvouqc7xai.jpg",
+      "AssetFile": "D:\\Lap_Trinh_Web\\Lab03WebBanHang\\Lab03WebBanHang\\wwwroot\\images\\hoc-sinh--1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "78228"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jmw+CAatKHbeh6un4p+FVs2ZNNf8ScLXgAGWbwMRrg0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Apr 2025 05:55:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mvouqc7xai"
+        },
+        {
+          "Name": "label",
+          "Value": "images/hoc-sinh--1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jmw+CAatKHbeh6un4p+FVs2ZNNf8ScLXgAGWbwMRrg0="
+        }
+      ]
+    },
+    {
       "Route": "images/hot-weather-1-Fullscreen-capture-592016-95709-AM-650x400.jpg",
       "AssetFile": "D:\\Lap_Trinh_Web\\Lab03WebBanHang\\Lab03WebBanHang\\wwwroot\\images\\hot-weather-1-Fullscreen-capture-592016-95709-AM-650x400.jpg",
       "Selectors": [],
@@ -15256,6 +15483,88 @@
       ]
     },
     {
+      "Route": "images/R (1).png",
+      "AssetFile": "D:\\Lap_Trinh_Web\\Lab03WebBanHang\\Lab03WebBanHang\\wwwroot\\images\\R (1).png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "106678"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iIWKVG0m8A4cUaGAVk9+dhBWztEOJuVV74QcDxw1I78=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Mar 2025 03:30:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-iIWKVG0m8A4cUaGAVk9+dhBWztEOJuVV74QcDxw1I78="
+        }
+      ]
+    },
+    {
+      "Route": "images/R (1).w6him6rohb.png",
+      "AssetFile": "D:\\Lap_Trinh_Web\\Lab03WebBanHang\\Lab03WebBanHang\\wwwroot\\images\\R (1).png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "106678"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iIWKVG0m8A4cUaGAVk9+dhBWztEOJuVV74QcDxw1I78=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Mar 2025 03:30:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "w6him6rohb"
+        },
+        {
+          "Name": "label",
+          "Value": "images/R (1).png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-iIWKVG0m8A4cUaGAVk9+dhBWztEOJuVV74QcDxw1I78="
+        }
+      ]
+    },
+    {
       "Route": "images/R.78u9mmww5a.jpg",
       "AssetFile": "D:\\Lap_Trinh_Web\\Lab03WebBanHang\\Lab03WebBanHang\\wwwroot\\images\\R.jpg",
       "Selectors": [],
@@ -15442,7 +15751,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Mar 2025 01:16:41 GMT"
+          "Value": "Wed, 02 Apr 2025 16:35:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -15487,7 +15796,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Mar 2025 01:16:41 GMT"
+          "Value": "Wed, 02 Apr 2025 16:35:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -35803,13 +36112,13 @@
       ]
     },
     {
-      "Route": "TranTrungDung_2280600423_Lab03WebBanHang.2ojsffn0eb.bundle.scp.css",
-      "AssetFile": "D:\\Lap_Trinh_Web\\Lab03WebBanHang\\Lab03WebBanHang\\obj\\Debug\\net9.0\\compressed\\p9n6ikug64-2ojsffn0eb.gz",
+      "Route": "TranTrungDung_2280600423_Lab03WebBanHang.bundle.scp.css",
+      "AssetFile": "D:\\Lap_Trinh_Web\\Lab03WebBanHang\\Lab03WebBanHang\\obj\\Debug\\net9.0\\compressed\\p9n6ikug64-id1skg398k.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001748251748"
+          "Quality": "0.001533742331"
         }
       ],
       "ResponseHeaders": [
@@ -35819,19 +36128,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "571"
+          "Value": "651"
         },
         {
           "Name": "ETag",
-          "Value": "\"rTTImUBDlCiLM0l/RTnGqvfJw/CkcmcqGFzveb5VncI=\""
+          "Value": "\"SdTNQDb5LdY1PYFB5yIVXvwWIATprSR+HAKXF1bN0KE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Mar 2025 16:12:18 GMT"
+          "Value": "Wed, 02 Apr 2025 14:43:31 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -35847,26 +36156,18 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"ks0Y5DOxLG9L5pQ+a88IXappJKVwUAC6VQ+GpFzaVMI=\""
+          "Value": "W/\"CsarhQTZruTqaS+GTTUHV+sybkbpwBB76mC6dbak+Xs=\""
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "2ojsffn0eb"
-        },
-        {
-          "Name": "label",
-          "Value": "TranTrungDung_2280600423_Lab03WebBanHang.bundle.scp.css"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-ks0Y5DOxLG9L5pQ+a88IXappJKVwUAC6VQ+GpFzaVMI="
+          "Value": "sha256-CsarhQTZruTqaS+GTTUHV+sybkbpwBB76mC6dbak+Xs="
         }
       ]
     },
     {
-      "Route": "TranTrungDung_2280600423_Lab03WebBanHang.2ojsffn0eb.bundle.scp.css",
+      "Route": "TranTrungDung_2280600423_Lab03WebBanHang.bundle.scp.css",
       "AssetFile": "D:\\Lap_Trinh_Web\\Lab03WebBanHang\\Lab03WebBanHang\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\TranTrungDung_2280600423_Lab03WebBanHang.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -35876,7 +36177,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1158"
+          "Value": "2328"
         },
         {
           "Name": "Content-Type",
@@ -35884,11 +36185,156 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ks0Y5DOxLG9L5pQ+a88IXappJKVwUAC6VQ+GpFzaVMI=\""
+          "Value": "\"CsarhQTZruTqaS+GTTUHV+sybkbpwBB76mC6dbak+Xs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Mar 2025 16:12:18 GMT"
+          "Value": "Wed, 02 Apr 2025 14:43:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-CsarhQTZruTqaS+GTTUHV+sybkbpwBB76mC6dbak+Xs="
+        }
+      ]
+    },
+    {
+      "Route": "TranTrungDung_2280600423_Lab03WebBanHang.bundle.scp.css.gz",
+      "AssetFile": "D:\\Lap_Trinh_Web\\Lab03WebBanHang\\Lab03WebBanHang\\obj\\Debug\\net9.0\\compressed\\p9n6ikug64-id1skg398k.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "651"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SdTNQDb5LdY1PYFB5yIVXvwWIATprSR+HAKXF1bN0KE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Apr 2025 14:43:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SdTNQDb5LdY1PYFB5yIVXvwWIATprSR+HAKXF1bN0KE="
+        }
+      ]
+    },
+    {
+      "Route": "TranTrungDung_2280600423_Lab03WebBanHang.id1skg398k.bundle.scp.css",
+      "AssetFile": "D:\\Lap_Trinh_Web\\Lab03WebBanHang\\Lab03WebBanHang\\obj\\Debug\\net9.0\\compressed\\p9n6ikug64-id1skg398k.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001533742331"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "651"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SdTNQDb5LdY1PYFB5yIVXvwWIATprSR+HAKXF1bN0KE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Apr 2025 14:43:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"CsarhQTZruTqaS+GTTUHV+sybkbpwBB76mC6dbak+Xs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "id1skg398k"
+        },
+        {
+          "Name": "label",
+          "Value": "TranTrungDung_2280600423_Lab03WebBanHang.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-CsarhQTZruTqaS+GTTUHV+sybkbpwBB76mC6dbak+Xs="
+        }
+      ]
+    },
+    {
+      "Route": "TranTrungDung_2280600423_Lab03WebBanHang.id1skg398k.bundle.scp.css",
+      "AssetFile": "D:\\Lap_Trinh_Web\\Lab03WebBanHang\\Lab03WebBanHang\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\TranTrungDung_2280600423_Lab03WebBanHang.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2328"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CsarhQTZruTqaS+GTTUHV+sybkbpwBB76mC6dbak+Xs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Apr 2025 14:43:31 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -35898,7 +36344,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "2ojsffn0eb"
+          "Value": "id1skg398k"
         },
         {
           "Name": "label",
@@ -35906,13 +36352,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-ks0Y5DOxLG9L5pQ+a88IXappJKVwUAC6VQ+GpFzaVMI="
+          "Value": "sha256-CsarhQTZruTqaS+GTTUHV+sybkbpwBB76mC6dbak+Xs="
         }
       ]
     },
     {
-      "Route": "TranTrungDung_2280600423_Lab03WebBanHang.2ojsffn0eb.bundle.scp.css.gz",
-      "AssetFile": "D:\\Lap_Trinh_Web\\Lab03WebBanHang\\Lab03WebBanHang\\obj\\Debug\\net9.0\\compressed\\p9n6ikug64-2ojsffn0eb.gz",
+      "Route": "TranTrungDung_2280600423_Lab03WebBanHang.id1skg398k.bundle.scp.css.gz",
+      "AssetFile": "D:\\Lap_Trinh_Web\\Lab03WebBanHang\\Lab03WebBanHang\\obj\\Debug\\net9.0\\compressed\\p9n6ikug64-id1skg398k.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -35921,7 +36367,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "571"
+          "Value": "651"
         },
         {
           "Name": "Content-Type",
@@ -35929,11 +36375,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"rTTImUBDlCiLM0l/RTnGqvfJw/CkcmcqGFzveb5VncI=\""
+          "Value": "\"SdTNQDb5LdY1PYFB5yIVXvwWIATprSR+HAKXF1bN0KE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Mar 2025 16:12:18 GMT"
+          "Value": "Wed, 02 Apr 2025 14:43:31 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -35951,7 +36397,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "2ojsffn0eb"
+          "Value": "id1skg398k"
         },
         {
           "Name": "label",
@@ -35959,18 +36405,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-rTTImUBDlCiLM0l/RTnGqvfJw/CkcmcqGFzveb5VncI="
+          "Value": "sha256-SdTNQDb5LdY1PYFB5yIVXvwWIATprSR+HAKXF1bN0KE="
         }
       ]
     },
     {
-      "Route": "TranTrungDung_2280600423_Lab03WebBanHang.2ojsffn0eb.styles.css",
-      "AssetFile": "D:\\Lap_Trinh_Web\\Lab03WebBanHang\\Lab03WebBanHang\\obj\\Debug\\net9.0\\compressed\\b24yn7fq9n-2ojsffn0eb.gz",
+      "Route": "TranTrungDung_2280600423_Lab03WebBanHang.id1skg398k.styles.css",
+      "AssetFile": "D:\\Lap_Trinh_Web\\Lab03WebBanHang\\Lab03WebBanHang\\obj\\Debug\\net9.0\\compressed\\b24yn7fq9n-id1skg398k.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001748251748"
+          "Quality": "0.001533742331"
         }
       ],
       "ResponseHeaders": [
@@ -35980,15 +36426,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "571"
+          "Value": "651"
         },
         {
           "Name": "ETag",
-          "Value": "\"rTTImUBDlCiLM0l/RTnGqvfJw/CkcmcqGFzveb5VncI=\""
+          "Value": "\"SdTNQDb5LdY1PYFB5yIVXvwWIATprSR+HAKXF1bN0KE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Mar 2025 16:12:18 GMT"
+          "Value": "Wed, 02 Apr 2025 14:43:31 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -36008,13 +36454,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"ks0Y5DOxLG9L5pQ+a88IXappJKVwUAC6VQ+GpFzaVMI=\""
+          "Value": "W/\"CsarhQTZruTqaS+GTTUHV+sybkbpwBB76mC6dbak+Xs=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "2ojsffn0eb"
+          "Value": "id1skg398k"
         },
         {
           "Name": "label",
@@ -36022,12 +36468,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-ks0Y5DOxLG9L5pQ+a88IXappJKVwUAC6VQ+GpFzaVMI="
+          "Value": "sha256-CsarhQTZruTqaS+GTTUHV+sybkbpwBB76mC6dbak+Xs="
         }
       ]
     },
     {
-      "Route": "TranTrungDung_2280600423_Lab03WebBanHang.2ojsffn0eb.styles.css",
+      "Route": "TranTrungDung_2280600423_Lab03WebBanHang.id1skg398k.styles.css",
       "AssetFile": "D:\\Lap_Trinh_Web\\Lab03WebBanHang\\Lab03WebBanHang\\obj\\Debug\\net9.0\\scopedcss\\bundle\\TranTrungDung_2280600423_Lab03WebBanHang.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -36037,7 +36483,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1158"
+          "Value": "2328"
         },
         {
           "Name": "Content-Type",
@@ -36045,11 +36491,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ks0Y5DOxLG9L5pQ+a88IXappJKVwUAC6VQ+GpFzaVMI=\""
+          "Value": "\"CsarhQTZruTqaS+GTTUHV+sybkbpwBB76mC6dbak+Xs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Mar 2025 16:12:18 GMT"
+          "Value": "Wed, 02 Apr 2025 14:43:31 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -36059,7 +36505,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "2ojsffn0eb"
+          "Value": "id1skg398k"
         },
         {
           "Name": "label",
@@ -36067,13 +36513,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-ks0Y5DOxLG9L5pQ+a88IXappJKVwUAC6VQ+GpFzaVMI="
+          "Value": "sha256-CsarhQTZruTqaS+GTTUHV+sybkbpwBB76mC6dbak+Xs="
         }
       ]
     },
     {
-      "Route": "TranTrungDung_2280600423_Lab03WebBanHang.2ojsffn0eb.styles.css.gz",
-      "AssetFile": "D:\\Lap_Trinh_Web\\Lab03WebBanHang\\Lab03WebBanHang\\obj\\Debug\\net9.0\\compressed\\b24yn7fq9n-2ojsffn0eb.gz",
+      "Route": "TranTrungDung_2280600423_Lab03WebBanHang.id1skg398k.styles.css.gz",
+      "AssetFile": "D:\\Lap_Trinh_Web\\Lab03WebBanHang\\Lab03WebBanHang\\obj\\Debug\\net9.0\\compressed\\b24yn7fq9n-id1skg398k.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -36082,7 +36528,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "571"
+          "Value": "651"
         },
         {
           "Name": "Content-Type",
@@ -36090,11 +36536,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"rTTImUBDlCiLM0l/RTnGqvfJw/CkcmcqGFzveb5VncI=\""
+          "Value": "\"SdTNQDb5LdY1PYFB5yIVXvwWIATprSR+HAKXF1bN0KE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Mar 2025 16:12:18 GMT"
+          "Value": "Wed, 02 Apr 2025 14:43:31 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -36112,7 +36558,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "2ojsffn0eb"
+          "Value": "id1skg398k"
         },
         {
           "Name": "label",
@@ -36120,155 +36566,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-rTTImUBDlCiLM0l/RTnGqvfJw/CkcmcqGFzveb5VncI="
-        }
-      ]
-    },
-    {
-      "Route": "TranTrungDung_2280600423_Lab03WebBanHang.bundle.scp.css",
-      "AssetFile": "D:\\Lap_Trinh_Web\\Lab03WebBanHang\\Lab03WebBanHang\\obj\\Debug\\net9.0\\compressed\\p9n6ikug64-2ojsffn0eb.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.001748251748"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "571"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"rTTImUBDlCiLM0l/RTnGqvfJw/CkcmcqGFzveb5VncI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 12 Mar 2025 16:12:18 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"ks0Y5DOxLG9L5pQ+a88IXappJKVwUAC6VQ+GpFzaVMI=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-ks0Y5DOxLG9L5pQ+a88IXappJKVwUAC6VQ+GpFzaVMI="
-        }
-      ]
-    },
-    {
-      "Route": "TranTrungDung_2280600423_Lab03WebBanHang.bundle.scp.css",
-      "AssetFile": "D:\\Lap_Trinh_Web\\Lab03WebBanHang\\Lab03WebBanHang\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\TranTrungDung_2280600423_Lab03WebBanHang.bundle.scp.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1158"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"ks0Y5DOxLG9L5pQ+a88IXappJKVwUAC6VQ+GpFzaVMI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 12 Mar 2025 16:12:18 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-ks0Y5DOxLG9L5pQ+a88IXappJKVwUAC6VQ+GpFzaVMI="
-        }
-      ]
-    },
-    {
-      "Route": "TranTrungDung_2280600423_Lab03WebBanHang.bundle.scp.css.gz",
-      "AssetFile": "D:\\Lap_Trinh_Web\\Lab03WebBanHang\\Lab03WebBanHang\\obj\\Debug\\net9.0\\compressed\\p9n6ikug64-2ojsffn0eb.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "571"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"rTTImUBDlCiLM0l/RTnGqvfJw/CkcmcqGFzveb5VncI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 12 Mar 2025 16:12:18 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-rTTImUBDlCiLM0l/RTnGqvfJw/CkcmcqGFzveb5VncI="
+          "Value": "sha256-SdTNQDb5LdY1PYFB5yIVXvwWIATprSR+HAKXF1bN0KE="
         }
       ]
     },
     {
       "Route": "TranTrungDung_2280600423_Lab03WebBanHang.styles.css",
-      "AssetFile": "D:\\Lap_Trinh_Web\\Lab03WebBanHang\\Lab03WebBanHang\\obj\\Debug\\net9.0\\compressed\\b24yn7fq9n-2ojsffn0eb.gz",
+      "AssetFile": "D:\\Lap_Trinh_Web\\Lab03WebBanHang\\Lab03WebBanHang\\obj\\Debug\\net9.0\\compressed\\b24yn7fq9n-id1skg398k.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001748251748"
+          "Quality": "0.001533742331"
         }
       ],
       "ResponseHeaders": [
@@ -36278,15 +36587,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "571"
+          "Value": "651"
         },
         {
           "Name": "ETag",
-          "Value": "\"rTTImUBDlCiLM0l/RTnGqvfJw/CkcmcqGFzveb5VncI=\""
+          "Value": "\"SdTNQDb5LdY1PYFB5yIVXvwWIATprSR+HAKXF1bN0KE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Mar 2025 16:12:18 GMT"
+          "Value": "Wed, 02 Apr 2025 14:43:31 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -36306,13 +36615,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"ks0Y5DOxLG9L5pQ+a88IXappJKVwUAC6VQ+GpFzaVMI=\""
+          "Value": "W/\"CsarhQTZruTqaS+GTTUHV+sybkbpwBB76mC6dbak+Xs=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ks0Y5DOxLG9L5pQ+a88IXappJKVwUAC6VQ+GpFzaVMI="
+          "Value": "sha256-CsarhQTZruTqaS+GTTUHV+sybkbpwBB76mC6dbak+Xs="
         }
       ]
     },
@@ -36327,7 +36636,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1158"
+          "Value": "2328"
         },
         {
           "Name": "Content-Type",
@@ -36335,11 +36644,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ks0Y5DOxLG9L5pQ+a88IXappJKVwUAC6VQ+GpFzaVMI=\""
+          "Value": "\"CsarhQTZruTqaS+GTTUHV+sybkbpwBB76mC6dbak+Xs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Mar 2025 16:12:18 GMT"
+          "Value": "Wed, 02 Apr 2025 14:43:31 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -36349,13 +36658,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ks0Y5DOxLG9L5pQ+a88IXappJKVwUAC6VQ+GpFzaVMI="
+          "Value": "sha256-CsarhQTZruTqaS+GTTUHV+sybkbpwBB76mC6dbak+Xs="
         }
       ]
     },
     {
       "Route": "TranTrungDung_2280600423_Lab03WebBanHang.styles.css.gz",
-      "AssetFile": "D:\\Lap_Trinh_Web\\Lab03WebBanHang\\Lab03WebBanHang\\obj\\Debug\\net9.0\\compressed\\b24yn7fq9n-2ojsffn0eb.gz",
+      "AssetFile": "D:\\Lap_Trinh_Web\\Lab03WebBanHang\\Lab03WebBanHang\\obj\\Debug\\net9.0\\compressed\\b24yn7fq9n-id1skg398k.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -36364,7 +36673,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "571"
+          "Value": "651"
         },
         {
           "Name": "Content-Type",
@@ -36372,11 +36681,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"rTTImUBDlCiLM0l/RTnGqvfJw/CkcmcqGFzveb5VncI=\""
+          "Value": "\"SdTNQDb5LdY1PYFB5yIVXvwWIATprSR+HAKXF1bN0KE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Mar 2025 16:12:18 GMT"
+          "Value": "Wed, 02 Apr 2025 14:43:31 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -36394,7 +36703,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-rTTImUBDlCiLM0l/RTnGqvfJw/CkcmcqGFzveb5VncI="
+          "Value": "sha256-SdTNQDb5LdY1PYFB5yIVXvwWIATprSR+HAKXF1bN0KE="
         }
       ]
     }
